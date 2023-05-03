@@ -1,4 +1,4 @@
-import { NextPage } from "next";
+import { NextPage, Metadata } from "next";
 import Head from "next/head";
 
 const Home: NextPage = () => {
@@ -6,6 +6,7 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>Webbio Posts</title>
+        <meta name="description">Webbio Posts homepage</meta>
       </Head>
       <main className="flex min-h-screen flex-col max-w-2xl mx-auto w-full">
         <h1 className="text-5xl font-extrabold mt-20">Posts</h1>
