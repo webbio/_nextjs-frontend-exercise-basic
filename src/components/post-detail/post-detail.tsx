@@ -19,12 +19,12 @@ const PostDetail = (): JSX.Element => {
         </div>
       </div>
       <div className="w-full h-96 flex bg-zinc-100 items-center justify-center font-medium">
-        Afbeelding uit "assets/posts/..."
+        Afbeelding uit &quot;assets/posts/...&quot;
       </div>
       <p className="text-xl">
-        His mother had always taught him not to ever think of himself as better than others. He'd tried to live by this
-        motto. He never looked down on those who were less fortunate or who had less money than him. But the stupidity
-        of the group of people he was talking to made him change his mind.
+        His mother had always taught him not to ever think of himself as better than others. He&apos;d tried to live by
+        this motto. He never looked down on those who were less fortunate or who had less money than him. But the
+        stupidity of the group of people he was talking to made him change his mind.
       </p>
     </article>
   );
