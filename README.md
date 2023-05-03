@@ -1,6 +1,6 @@
 ## Opdracht
 
-Je gaat meewerken aan een project waarin posts bekeken kunnen worden. Een developer voor jou heeft al wat voorbereidend werk gedaan, maar er mist nog veel. Jouw opdracht is het afronden van het MVP. Dit zijn de wensen van de klant:
+Je gaat meewerken aan een project waarin posts bekeken kunnen worden. Een developer voor jou heeft al wat voorbereidend werk gedaan, maar er mist nog veel. Jouw opdracht is het afronden van het MVP. Dit is in hoofdlijnen wat er moet gebeuren:
 
 1. Maak een post overzicht met paginatie op de homepage
 2. Maak de data dynamisch door gebruik te maken van de api van [dummyjson.com](https://dummyjson.com/). Het gaat herbij om het ophalen van posts.
