@@ -5,8 +5,8 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Webbio Posts</title>
-        <meta name="description">Webbio Posts homepage</meta>
+        <title>Posts</title>
+        <meta name="description" content="This is the posts homepage" />
       </Head>
       <main className="flex min-h-screen flex-col max-w-2xl mx-auto w-full">
         <h1 className="text-5xl font-extrabold mt-20">Posts</h1>
